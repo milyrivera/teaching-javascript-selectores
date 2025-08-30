@@ -1,15 +1,15 @@
 {
   "id": 1,
-  "firstName": "Juan",
-  "lastName": "Arroyo",
-  "maidenName": "Smith",
-  "age": 28,
+  "firstName": "Emily",
+  "lastName": "Chisaba",
+  "maidenName": "Emily",
+  "age": 18,
   "gender": "female",
-  "email": "emily.johnson@x.dummyjson.com",
-  "phone": "+81 965-431-3024",
-  "username": "emilys",
-  "password": "emilyspass",
-  "birthDate": "1996-5-30",
+  "email": "echisaba@unbosque.edu.co",
+  "phone": "+57 322 880 3034",
+  "username": "Milych",
+  "password": "2906",
+  "birthDate": "2007-6-29",
   "image": "...",
   "bloodGroup": "O-",
   "height": 193.24,
@@ -66,5 +66,5 @@
     "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
     "network": "Ethereum (ERC20)"
   },
-  "role": "admin" // or "moderator", or "user"
+  "role": "admin"
 }
